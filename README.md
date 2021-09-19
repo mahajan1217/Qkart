@@ -11,3 +11,5 @@ Utilized REST APIs to dynamically load and render data served by the backend ser
 Deployed website to Netlify
 
 ![image](https://user-images.githubusercontent.com/49040430/133921062-528aa9c2-78ac-45e0-b9c1-db2e9b9d945e.png)
+
+![image](https://user-images.githubusercontent.com/49040430/133921087-c6ee3b32-7978-4457-bea5-0a566dcc38f9.png)
